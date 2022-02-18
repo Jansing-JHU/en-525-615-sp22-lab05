@@ -1,6 +1,6 @@
-# Laboratory 3
+# Laboratory 5
 
-- [Laboratory 3](#laboratory-3)
+- [Laboratory 5](#laboratory-5)
 	- [Experiment 1](#experiment-1)
 		- [Parts List](#parts-list)
 		- [Claiming Your Repo](#claiming-your-repo)
